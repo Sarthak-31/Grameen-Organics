@@ -5,11 +5,11 @@ https://youtu.be/gh-DrU1Fc-8
 # Presentation
 https://docs.google.com/presentation/d/1YDb5mJTj9dce3xCfn20Yuf5GUAvW2s3a/edit?usp=drivesdk&ouid=111291439327955918061&rtpof=true&sd=true
 # Technology Stack
-HTML
-CSS
+1.HTML
+2.CSS
 # Contributors
 Team Name: Hack Frenzy
-Sarthak Penta
-Thatipalli Manesh
-Yuva Kishore Koneru
-Chakradhar Mocharla
+1.Sarthak Penta
+2.Thatipalli Manesh
+3.Yuva Kishore Koneru
+4.Chakradhar Mocharla
