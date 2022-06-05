@@ -8,7 +8,7 @@ https://docs.google.com/presentation/d/1YDb5mJTj9dce3xCfn20Yuf5GUAvW2s3a/edit?us
 1.HTML <br/>
 2.CSS  <br/>
 # Contributors
-Team Name: Hack Frenzy
+Team Name: Hack Frenzy <br/>
 1.Sarthak Penta <br/>
 2.Thatipalli Manesh <br/>
 3.Yuva Kishore Koneru <br/>
